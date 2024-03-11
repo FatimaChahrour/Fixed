@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          51.5235937,
+          25.3912762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-19T09:54:08.940892Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5e5b7ce8b81d862",
+        "location": {
+          "address": "9GRF+GC8, Lusail, Qatar",
+          "name": "Marina Res 15 Al Jasra Residence"
+        },
+        "review_text_published": "Not helpful helpdesk and tower coordinator at all."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.5088539,
+          25.4101734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-19T08:46:41.217371Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2e9a8b418bf5fc5b",
+        "location": {
+          "address": "117, Zone69, Lusail, Qatar",
+          "name": "Al Jasra Residence 3"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.5829963,
+          33.9118804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-05T16:44:39.582107Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77084a9c5aa7c917",
+        "location": {
+          "address": "Antelias, Lebanon",
+          "country_code": "LB",
+          "name": "Saniour"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}
